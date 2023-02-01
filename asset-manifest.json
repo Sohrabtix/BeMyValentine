@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BeMyValentine/static/css/main.c6442b8a.css",
-    "main.js": "/BeMyValentine/static/js/main.83559983.js",
+    "main.js": "/BeMyValentine/static/js/main.c381b064.js",
     "static/js/787.e4569199.chunk.js": "/BeMyValentine/static/js/787.e4569199.chunk.js",
     "static/media/IMG_0110.JPG": "/BeMyValentine/static/media/IMG_0110.a665ac7361c8cf8b2157.JPG",
     "static/media/IMG_0209.JPG": "/BeMyValentine/static/media/IMG_0209.028a2b6ff1bc286eb5ae.JPG",
@@ -11,11 +11,11 @@
     "static/media/heart.png": "/BeMyValentine/static/media/heart.0375c98b43872cb52468.png",
     "index.html": "/BeMyValentine/index.html",
     "main.c6442b8a.css.map": "/BeMyValentine/static/css/main.c6442b8a.css.map",
-    "main.83559983.js.map": "/BeMyValentine/static/js/main.83559983.js.map",
+    "main.c381b064.js.map": "/BeMyValentine/static/js/main.c381b064.js.map",
     "787.e4569199.chunk.js.map": "/BeMyValentine/static/js/787.e4569199.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6442b8a.css",
-    "static/js/main.83559983.js"
+    "static/js/main.c381b064.js"
   ]
 }
