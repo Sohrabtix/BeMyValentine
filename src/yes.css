@@ -1,0 +1,44 @@
+#n1{
+    position: absolute;
+    height: 40%;
+    top: 0%;
+    left: 0;
+}
+#n1 img{
+    top: 10%;
+    height: 90%;
+}
+#n2{
+    position: absolute;
+    height: 40%;
+    bottom: 0;
+    left: 0;
+}
+#n2 img{
+    top: 10%;
+    height: 90%;
+}
+#n3{
+    position: absolute;
+    height: 40%;
+    bottom: 0;
+    right: 0;
+}
+#n3 img{
+    top: 10%;
+    height: 90%;
+}
+#n4{
+    position: absolute;
+    height: 40%;
+    top: 0;
+    right: 0;
+}
+#n4 img{
+    top: 10%;
+    height: 90%;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
